@@ -1,0 +1,23 @@
+# Keil 个人界面布局文件（记录本机用户名与窗口位置，不应公开）
+*.uvguix.*
+*.uvguix
+
+# 云盘/临时目录
+.fang_cloud_tmp_dir/
+
+# Keil 编译中间产物
+*.o
+*.d
+*.crf
+*.axf
+*.lst
+*.map
+*.dep
+*.htm
+*.lnp
+*.sct
+*.iex
+
+# 系统文件
+Thumbs.db
+.DS_Store
